@@ -1,0 +1,12 @@
+### Gradle ###
+.gradle
+.build-script/
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+
+### Intellij IDEA ###
+.idea
+*.iml
